@@ -6,4 +6,4 @@ Este proyecto se enfoca en la resolución de 7 ejercicios de diferentes áreas  
 ## Integrantes
 - **Salas Camila**
 - **Pérez Valeria**
-- 
+

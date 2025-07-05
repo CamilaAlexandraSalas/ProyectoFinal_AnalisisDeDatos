@@ -1,3 +1,3 @@
 # ProyectoFinal_AnalisisDeDatos
-Salas Camila
-Pérez Valeria
+-Salas Camila
+-Pérez Valeria
